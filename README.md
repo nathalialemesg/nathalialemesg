@@ -18,13 +18,10 @@
 
 🧠 I enjoy learning new technologies, understanding how software works, and turning ideas into practical solutions.
 
-🔎 **Currently looking for internship and entry-level opportunities in technology.**
+🔎 Currently looking for internship and entry-level opportunities in technology.
 
 🤝 I'm open to learning, collaborating on projects, and connecting with people from the technology community.
 
----
-
-## 🛠️ Skills & Areas of Interest
 
 ### 💻 Software Development
 
@@ -48,20 +45,6 @@
 - Version Control
 - Web Development
 - New programming languages and technologies
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalialemesg&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalialemesg&layout=compact&langs_count=8&theme=dracula"/>
-
-</div>
-
----
 
 ## 🎯 My Goals
 
