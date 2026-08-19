@@ -1,11 +1,12 @@
-<h1 align="center">💗 Nathalia Lemes</h1>
+<h1 align="center"> Hi, I'm Nathalia! </h1>
+
+<h3 align="center">
+  💻 Software Engineering Student
+</h3>
 
 <p align="center">
-  <strong>Software Engineering Student</strong>
-</p>
-
-<p align="center">
-  Learning • Building • Growing 
+  <img src="https://img.shields.io/badge/Software%20Engineering-FF69B4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Developer%20in%20Progress-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 
@@ -18,6 +19,7 @@ I'm currently improving my knowledge through academic and personal projects, wor
 🧠 I enjoy learning new technologies, understanding how systems work, and turning challenges into opportunities to learn.
 
 🚀 **I'm currently looking for internship and entry-level opportunities in technology**, where I can learn, collaborate, develop my skills, and grow professionally.
+
 
 
 ## 💻 Languages & Technologies
@@ -73,6 +75,8 @@ I'm currently improving my knowledge through academic and personal projects, wor
 
 <br/>
 <br/>
+
+
 
 ## 📫 Let's Connect
 
