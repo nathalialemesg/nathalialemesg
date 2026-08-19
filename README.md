@@ -9,9 +9,6 @@
   <img src="https://img.shields.io/badge/Developer%20in%20Progress-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-<p align="center">
-  <i>✨ Learning, building and growing through technology ✨</i>
-</p>
 
 <p align="center">
   <a href="https://github.com/nathalialemesg">
@@ -66,9 +63,6 @@
 ---
 
 <h3 align="center">
-  💜 Thanks for visiting my profile!
+  💗 Thanks for visiting my profile!
 </h3>
 
-<p align="center">
-  🚀 Always learning. Always building.
-</p>
