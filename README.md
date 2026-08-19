@@ -1,11 +1,22 @@
-<h1 align="center">Hi, I'm Nathalia! 👋</h1>
+<h1 align="center"> Hi, I'm Nathalia! 👋</h1>
 
 <h3 align="center">
-  Software Engineering Student | Aspiring Software Developer
+  💻 Software Engineering Student
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nathalialemesg&label=Profile%20views&color=blueviolet&style=flat" alt="Profile views"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-FF69B4?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Developer%20in%20Progress-DB7093?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+<p align="center">
+  <i>✨ Learning, building and growing through technology ✨</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nathalialemesg">
+    <img src="https://komarev.com/ghpvc/?username=nathalialemesg&label=Profile%20views&color=FF69B4&style=flat-square" alt="Profile views"/>
+  </a>
 </p>
 
 ---
