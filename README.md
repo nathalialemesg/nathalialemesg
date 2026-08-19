@@ -14,23 +14,11 @@
 
 🎓 I'm a **Software Engineering student** passionate about technology, programming, and software development.
 
-💻 I'm currently developing my skills through academic and personal projects, building a strong foundation in software engineering, programming logic, and problem solving.
-
 🧠 I enjoy learning new technologies, understanding how software works, and turning ideas into practical solutions.
 
 🔎 Currently looking for internship and entry-level opportunities in technology.
 
 🤝 I'm open to learning, collaborating on projects, and connecting with people from the technology community.
-
-
-### 💻 Software Development
-
-- Programming Logic
-- Algorithms and Problem Solving
-- Object-Oriented Programming
-- Software Engineering
-- Software Development
-- Git & GitHub
 
 ### 🎨 Design & User Experience
 
@@ -45,16 +33,6 @@
 - Version Control
 - Web Development
 - New programming languages and technologies
-
-## 🎯 My Goals
-
-- 📚 Continuously improve my programming skills
-- 💻 Build practical and meaningful software projects
-- 🧠 Strengthen my knowledge of Software Engineering
-- 🚀 Gain real-world experience in technology
-- 🤝 Collaborate with other developers
-- 🌱 Learn new technologies and development practices
-- 💼 Start my professional career in Software Development
 
 ## 📫 Let's Connect
 
