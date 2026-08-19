@@ -1,4 +1,4 @@
-<h1 align="center">👩🏻‍💻 Nathalia Lemes</h1>
+<h1 align="center">💗 Nathalia Lemes</h1>
 
 <p align="center">
   <strong>Software Engineering Student</strong>
@@ -8,7 +8,6 @@
   Learning • Building • Growing 
 </p>
 
----
 
 ## 🌷 About Me
 
@@ -20,29 +19,10 @@ I'm currently improving my knowledge through academic and personal projects, wor
 
 🚀 **I'm currently looking for internship and entry-level opportunities in technology**, where I can learn, collaborate, develop my skills, and grow professionally.
 
----
 
 ## 💻 Languages & Technologies
 
 <p align="left">
-
-<img 
- align="left" 
- alt="HTML5"
- title="HTML5" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="CSS3"
- title="CSS3" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
 
 <img 
  align="left" 
@@ -91,33 +71,6 @@ I'm currently improving my knowledge through academic and personal projects, wor
 
 </p>
 
-<br/>
-<br/>
-
----
-
-## 📊 GitHub Statistics
-
-<p align="left">
-
-<img 
- align="left" 
- alt="GitHub Stats" 
- height="180" 
- style="padding-right: 10px;" 
- src="https://github-readme-stats.vercel.app/api?username=nathalialemesg&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true&locale=en" 
-/>
-
-<img 
- align="left" 
- alt="GitHub Stats" 
- height="180" 
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalialemesg&theme=rose_pine&layout=compact&custom_title=Technologies&langs_count=8" 
-/>
-
-</p>
-
-<br/>
 <br/>
 <br/>
 
