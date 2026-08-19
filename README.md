@@ -114,6 +114,4 @@ I'm currently improving my knowledge through academic and personal projects, wor
   💗 <strong>Thanks for visiting my profile!</strong> 💗
 </p>
 
-<p align="center">
-  💻 Always learning. Always growing.
-</p>
+
